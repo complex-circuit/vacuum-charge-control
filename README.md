@@ -6,4 +6,4 @@ Files:
 ------
 1. arduino source code
 2. schematic
-3. pictures are on my blog at [dwinbert.blogspot.com]
+3. pictures are on my blog at <http://kc3jby.blogspot.com>
